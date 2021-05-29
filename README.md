@@ -1,5 +1,6 @@
-# realworld-collection
+# Real world Collection
 A collection of real world implementations on various tech stacks
+See references [here](https://github.com/gothinkster/realworld)
 
 1. NextJS [Demo](http://realworld-nextjs-tau.vercel.app) / [Github](https://github.com/sawirricardo/realworld-nextjs)
 2. VueJS [Demo](http://realworld-vue.sawirstudio.com) / [Github](https://github.com/sawirricardo/realworld-vue)
