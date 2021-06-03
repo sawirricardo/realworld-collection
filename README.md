@@ -4,7 +4,7 @@ A collection of [Real world](https://github.com/gothinkster/realworld) implement
 ### Frontend
 Tech Stack | Demo | Github
 -----------|------|-------
-React.js Next.js | [Demo](http://realworld-nextjs-tau.vercel.app) | [Github](https://github.com/sawirricardo/realworld-nextjs)
+React.js (Next.js) | [Demo](http://realworld-nextjs-tau.vercel.app) | [Github](https://github.com/sawirricardo/realworld-nextjs)
 Vue.js | [Demo](http://realworld-vue.sawirstudio.com) | [Github](https://github.com/sawirricardo/realworld-vue)
 Ember.js | [Demo](https://realworld-emberjs.sawirstudio.com) | [Github](https://github.com/sawirricardo/realworld-emberjs)
 
