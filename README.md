@@ -14,5 +14,5 @@ Tech Stack | Demo | Github
 Node.js | [Demo](https://realworld-nodejs.herokuapp.com) | [Github](https://github.com/sawirricardo/realworld-nodejs)
 PHP Laravel/Livewire | [Demo](http://realworld.sawirstudio.com) | [Github](https://github.com/sawirricardo/realworld-tall-app)
 PHP Laravel API | [Demo](https://realworld-laravel-api.sawirstudio.com/api) | [Github](https://github.com/sawirricardo/realworld-laravel-api)
-Ruby on Rails | On progress | [Github](https://github.com/sawirricardo/realworld-ruby-on-rails)
+Ruby on Rails | On progress | [Github](https://github.com/sawirricardo/realworld-rubyonrails)
 Go(Golang) | On progress | [Github](https://github.com/sawirricardo/realworld-go)
